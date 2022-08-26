@@ -24,9 +24,6 @@ This Project is to establish the installation of the LEMP STACK IMPLEMENTATION
 1. I tested PHP is working with the NGINX by loading **http://3.8.207.194/info.php** then I replace the page info.php file with a customised htnl website and css file 
 ![image](https://user-images.githubusercontent.com/41007763/186939463-ca7af910-5b13-45ec-94c4-e19e6d4bdf29.png)
 
-1. This first action is setting UP an EC2 instant on AWS 
-![image](https://user-images.githubusercontent.com/41007763/186940004-f1366af6-ac47-44a5-9cb1-92f638ca57a3.png)
-
 1.Using sudo mysql I was able to navigate in the Database display database with **mysql> SHOW DATABASES** I selected the Database to Use Using **USE DATABASENAME** 
 
 I did not take much screenshort here as it my convenient domain, I was able to insert data in the TAble Authors, in the Database **example_database** and display them as shown below
